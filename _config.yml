@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://Super35.github.io
 title: Super 35
-tagline: My awesome
+tagline: My awesome blog site
 description: My awesome new site
 paginate: 5
