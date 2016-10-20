@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Super35.github.io
+title: Dalton's Blog
+tagline: My awesome
+description: My awesome new site
+paginate: 5
